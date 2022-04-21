@@ -1,4 +1,4 @@
-# naming-conflict
+# majoreon-naming-conflict
 Quick resolution for naming conflict
 
 I'm a small programmer and content creator from the small country of Portugal, who goes by the handle @majoreon everywhere on the internet. I stream on Twitch on that handle and have associated youtube, as well as several other social media profiles.
