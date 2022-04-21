@@ -1,2 +1,2 @@
 # naming-conflict
-Qhick resolution for naming conflict
+Quick resolution for naming conflict
